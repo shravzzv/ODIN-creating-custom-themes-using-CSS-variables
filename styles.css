@@ -12,8 +12,6 @@
   --color-btn-bg: rgb(220, 220, 220);
 }
 
-/* ! When the page loads for the first time, no variables are be used because then the root doesn't have any class. Only with interaction from script.js adds the class. */
-
 body,
 .theme-toggle {
   color: var(--color-base-text);
